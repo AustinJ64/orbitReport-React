@@ -4,6 +4,12 @@ p {
   text-align: center;
 }
 
+header {
+  text-align: center;
+  color: red;
+  font-size: larger;
+}
+
 button {
   background-color: #5c94ce;
   border-radius: 15px;
